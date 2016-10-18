@@ -1,3 +1,3 @@
 # CR
 this is basicly opensource version of undertale
-and create pull request hen edit done
+and create pull request when edit done
