@@ -45,6 +45,8 @@
     <sprite>sprites\sprite28</sprite>
     <sprite>sprites\sprite29</sprite>
     <sprite>sprites\sprite32</sprite>
+    <sprite>sprites\sprite36</sprite>
+    <sprite>sprites\sprite37</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -92,6 +94,8 @@
     <object>objects\endgame</object>
     <object>objects\object33</object>
     <object>objects\object34</object>
+    <object>objects\dont</object>
+    <object>objects\object36</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
@@ -109,6 +113,7 @@
     <room>rooms\GAME_OVER</room>
     <room>rooms\ATTACK</room>
     <room>rooms\room9</room>
+    <room>rooms\messagebox_test</room>
   </rooms>
   <constants number="2">
     <constant name="name">moy</constant>

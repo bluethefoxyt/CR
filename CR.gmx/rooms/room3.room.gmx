@@ -11,7 +11,7 @@
   <colour>0</colour>
   <showcolour>-1</showcolour>
   <code></code>
-  <enableViews>0</enableViews>
+  <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
@@ -41,7 +41,7 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="ed" xview="0" yview="0" wview="400" hview="400" xport="0" yport="0" wport="400" hport="400" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -51,7 +51,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="object0" x="0" y="128" name="inst_D50A060E" locked="0" code="" scaleX="34" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object0" x="0" y="128" name="inst_D50A060E" locked="0" code="" scaleX="32" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object0" x="0" y="352" name="inst_AB8E455C" locked="0" code="" scaleX="32" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object0" x="992" y="160" name="inst_120F0F6E" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="object0" x="992" y="320" name="inst_21DC2A4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -105,7 +105,7 @@
     <instance objName="wood" x="576" y="256" name="inst_A11F6069" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wood" x="608" y="256" name="inst_1BD79A29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wood" x="608" y="224" name="inst_348A4FC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="scr_txt" x="160" y="0" name="inst_6A4608DD" locked="0" code="/// createion of var&#xA;&#xA;width= 300;&#xA;height = 120;&#xA;padding = 8;&#xA;&#xA;&#xA;/// keep track of start line&#xA;start = ds_list_create( );&#xA;ds_list_add( start, 0 );&#xA;count = 0;&#xA;last_space = 0;&#xA;line = 0;&#xA;&#xA;//set message&#xA;message = &quot;okkkkkkkkkkkkkkkkkkkkkkkkkkkkk                                                                                                                                                                                                                                       &quot;;&#xA;str = &quot;&quot;;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="scr_txt" x="160" y="0" name="inst_6A4608DD" locked="0" code="/// createion of var&#xA;&#xA;width= 300;&#xA;height = 120;&#xA;padding = 8;&#xA;&#xA;&#xA;/// keep track of start line&#xA;start = ds_list_create( );&#xA;ds_list_add( start, 0 );&#xA;count = 0;&#xA;last_space = 0;&#xA;line = 0;&#xA;&#xA;//set message&#xA;message = &quot;okkkkkkkkkkkkkkkkkkkkkkkkkkkkk                                                                                                                                                                                                                                       &quot;;&#xA;str = &quot;&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object30" x="0" y="0" name="inst_8E4581D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
