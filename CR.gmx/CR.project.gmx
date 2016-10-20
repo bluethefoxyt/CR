@@ -7,6 +7,7 @@
   <sounds name="sound">
     <sound>sound\sound2</sound>
     <sound>sound\sound1</sound>
+    <sound>sound\compute</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\CHARBATTLE</sprite>
@@ -48,15 +49,14 @@
     <sprite>sprites\sprite36</sprite>
     <sprite>sprites\sprite37</sprite>
     <sprite>sprites\select</sprite>
+    <sprite>sprites\sprite39</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
     <path>paths\path0</path>
     <path>paths\path1</path>
   </paths>
-  <scripts name="scripts">
-    <script>scripts\menu.gml</script>
-  </scripts>
+  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\wingdings</font>
     <font>fonts\wingging</font>
@@ -100,7 +100,6 @@
     <object>objects\object34</object>
     <object>objects\dont</object>
     <object>objects\object36</object>
-    <object>objects\obj_menu</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
